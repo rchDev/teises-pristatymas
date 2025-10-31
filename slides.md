@@ -1,0 +1,476 @@
+---
+# try also 'default' to start simple
+theme: academic
+# some information about your slides (markdown enabled)
+colorSchema: light
+fonts:
+  mono: Roboto
+themeConfig:
+  paginationX: r
+  paginationY: b
+  paginationPagesDisabled: [3, 7]
+title: GPL trolio nuopolis
+info: |
+  ## Slidev Starter Template
+  Presentation slides for developers.
+
+  Learn more at [Sli.dev](https://sli.dev)
+# apply UnoCSS classes to the current slide
+drawings:
+  persist: false
+# slide transition: https://sli.dev/guide/animations.html#slide-transitions
+transition: slide-left
+# enable MDC Syntax: https://sli.dev/features/mdc
+mdc: true
+layout: center
+figureUrl: Old Mountain Troll.webp
+---
+
+# **GPL trolio nuopolis**
+
+
+---
+layout: figure-side
+mdc: true
+transition: view-transition
+figureUrl: /multiple_trolls.png
+figureWidth: 90%
+---
+
+# **Trolių rūšys** {.vt-title}
+
+- Folkloriniai / mitologiniai {.vt-item}
+- Socialiniai {.vt-item}
+  - Interneto {.vt-item}
+    - Provokuojantys {.vt-item}
+    - Įžeidinėjantys / Priekabiaujantys {.vt-item}
+    - „Rūpestingi“ (apsimetantys draugiškais) {.vt-item}
+    - Valstybiniai / Propagandiniai {.vt-item}
+  - Gatvės {.vt-item}
+  - Dezinformacijos {.vt-item}
+- <span v-mark.box.orange="{color: '#ffb347', animationDuration:800}">Teisiniai (Intelektinės Nuosavybės)</span> {.vt-item}
+    - Patentų {.vt-item}
+    - <span v-mark.highlight="{color: '#e63946', animationDuration:800}">Autorių teisių / Licencijų troliai</span> {.vt-item}
+    - Prekių ženklų {.vt-item}
+
+---
+mdc: true
+transition: view-transition
+layout: figure-side
+figureUrl: public/Norgeillus 1-1.webp
+figureX: r
+---
+
+# **Teisiniai (Intelektinės Nuosavybės) troliai**
+
+**Kas jie?**
+
+Fiziniai ar juridiniai asmenys, kurie piktnaudžiauja teisine sistema (ypač intelektinės nuosavybės teise),
+kad gautų finansinę naudą, o ne siektų teisingumo ar realaus teisių įgyvendinimo.
+
+**Rūšys:**
+- <span v-mark.box="{color: '#ffb347', animationDuration:800}">Patentų troliai</span>
+- <span v-mark.box="{color: '#ffb347', animationDuration:800}">Autorių teisių / Licencijų troliai</span>
+- Prekių ženklų troliai
+
+---
+mdc: true
+transition: view-transition
+layout: figure-side
+figureUrl: public/two_trolls.webp
+figureX: r
+---
+
+# **Patentų VS Licencijų**
+
+### Pagrindiniai skirtumai
+
+| | **Patentų** | **Licencijų** |
+|-----------|-----------|------------|
+| **Prigimtis** | Dažniausiai spec. įmonės | Dažniausiai kūrėjai |
+| **Atakos objektas** | Aibė patentą pažeidusių technologijų | Konkreti PĮ ar jos dalis |
+| **Labiausiai paplitę** | JAV | ES |
+| **Erzinimo lygis** | <span style="color:#5B6236;">★★★★★</span> | <span style="color:#5B6236;">★★★★☆</span>|
+
+---
+mdc: true
+transition: view-transition
+layout: figure
+figureUrl: /public/Informatikos teisės pristatymas-1.svg
+---
+
+# **Veikimo principas**
+
+---
+layout: top
+mdc: true
+transition: view-transition
+---
+
+# **Žinomi IP troliai**
+
+<br/>
+
+**Patentų:**
+- VirnetX (Apple trolis) (JAV)
+- Sable Networks Inc. (JAV)
+- Uniloc Corporation (JAV)
+
+<br/>
+
+**Licencijų:**
+- <span v-mark.box="{color: '#ffb347', animationDuration:800}">Patrick McHardy "GPL trolis" (ES)</span>
+- Open Source Security, Inc. (JAV)
+- Hans Reiser / Namesys (JAV)
+
+---
+layout: figure-side
+figureUrl: public/masked_villain.png
+mdc: true
+transition: view-transition
+---
+
+# **Patrick McHardy**
+- 🇩🇪 Vokietijos pilietis
+- Prisidėjo prie Linux branduolio ir "Netlifier" karkaso kūrimo 2006-2014 m.
+- 2016-2018 m. vykdė GPL licencijos atitikties užtikrinimo kampaniją, kurios metu iš kompanijų ir individualių kūrėjų išgavo apie 3 mln. eur.,
+todėl buvo pramintas "GPL trolio" vardu.
+
+---
+layout: default
+mdc: true
+transition: view-transition
+---
+
+# **Kaip veikė McHardis?**
+
+**Taikiniai:** smulkos ar vidutinio dydžio įmonės, padariusios daug neesminių GPLv2 licencijos pažeidimų.
+
+**Schema:**
+1. Atsiunčiamas cease-and-desist laiškas, kuriame:
+    - nurodoma sumokėti smulkią kontrakto pažeidimo baudą,
+    - sutikti su svarbia sąlyga, jog pakartotinių licencijos pažeidimo atvejų metu, sutarties dalyvis turės sumokėti didėjančią baudą.
+2. Aukai sutikus su pirmosios sutarties sąlygomis, siunčiami nauji cease-and-desist laiškai, kuriuose minimi kiti GPL licencijos pažeidimai su reikalavimais mokėti vis didesnes baudas
+    ir sutikti su papildomomis sąlygomis.
+
+
+---
+layout: top
+transition: view-transition
+---
+
+# **Kas lėmė schemos veiksmingumą?**
+
+<br/>
+
+### Vokietijos teisinė sistema ir teismų praktika
+
+---
+layout: top
+transition: view-transition
+---
+
+# **Vokietijos teisinė sistema**
+
+<br/>
+
+1. Teismas gali be žodinio nagrinėjimo išduoti laikiną teismo draudimą, kurį panaikinti iki jo termino pabaigos yra sunku.
+
+<br/>
+
+2. Atsakovo prieštaravimas nestabdo teismo draudimo
+
+<br/>
+
+3. Laisvas teismo vietos pasirinkimas
+
+<br/>
+
+4. Ieškovas gali bet kada atsiimti prašymą dėl draudimo
+
+<br/>
+
+5. Teismų uždarumas
+
+<br/>
+
+6. Ieškovas gali iš atsakovo reikalauti sumokėti baudą savo naudai
+
+
+---
+layout: top
+transition: view-transition
+---
+
+# **Lemtinga byla**
+
+<br/>
+
+**Priešistorė:**
+
+- 2006-2014 m. Patrick McHardy prisideda prie "Netlifier" kūrimo.
+- 2016-2017 m. McHardy siautėja puldinėdamas įmones, kurios nesilaiko visų GPL licencijos nuostatų.
+
+---
+layout: top
+transition: view-transition
+---
+
+# **"Geniatech" VS McHardy (1)**
+
+**Ginčas:**
+
+- "Geniatech" iš McHardy gavo perspėjimo laišką apie GPLv2 pažeidimą.
+- "Geniatech" 2017 liepos 17 d. gauna susitarimo laišką iš Patrick McHardy, kuriame McHardy prašo įmonės nutraukti pažeidimą ir sumokėti baudą.
+- 2017 liepos 24 d. "Geniatech" atsisako sutikti su sutarties sąlygomis.
+- 2017 liepos 26 d. Patrick McHardy nutraukia "Geniatech" GPLv2 licenciją.
+- 2017 rugpjūčio 4 d. Patrick McHardy pasirašo priesaikos deklaraciją, kurioje išdėsto esminius pažeidimo faktus kartu su įrodymais.
+
+---
+layout: top
+transition: view-transition
+---
+
+# **"Geniatech" VS McHardy (2)**
+
+**Ginčas:**
+
+- 2017 rugpjūčio 10 d. Patrick McHardy Kelno apygrados teismui pateikė prašymą dėl laikinojo draudimo.
+- 2017 rugpjūčio 24 d. įvertinęs McHardžio pateiktus argumentus ir įrodymus, teismas įmonei "Geniatech" išdavė laikinąjį draudimą platinti produkciją, naudojančią McHardy rašytą programinį kodą, nes McHardžiui pavyko įrodyti:
+  - autorystę,
+  - autorinių teisių pažeidimo egzistavimą,
+  - skubumo svarbą,
+  - įrodymų pakankamumą.
+
+---
+layout: top
+transition: view-transition
+---
+
+# **"Geniatech" VS McHardy (3)**
+
+- 2017 m. rugpjūčio 30 d. "Geniatech" pateikė prieštaravimą dėl laikinojo draudimo, kuriame teigė:
+  - Laikinasis draudimas yra pernelyg abstraktus ir yra taikomas per plačiai.
+  - Patrick McHardy piktnaudžiauja savo teisėmis ir siekia pasipelnyti.
+  - Skubos nėra, nes McHardy seniai žinojo apie pažeidimą ir nesikreipė į teismą.
+  - GPLv2 licencija yra pernelyg abstrakti ir dviprasmiška, todėl negali būti taikoma Vokietijoje.
+  - McHardy indėlis į Linux branduolį yra pernelyg menkas, kad jam būtų suteikta autorystės teisė.
+
+---
+layout: top
+transition: view-transition
+---
+
+# **"Geniatech" VS McHardy (4)**
+
+- 2017 m. rugsėjį Kelno apygardos teismas paskelbė žodinio nagrinėjimo datą 2017 m. ir abi pusės apsikeitė:
+  - Procesiniais dokumentais.
+  - Techniniais įrodymais ir paaiškinimais.
+  - Parengtomis ekspertų išvadomis.
+
+- 2017 m. spalio 12 d. Vokietijos Kelno apygardos teisme įvyko žodinis nagrinėjimas, kuriame abi šalys:
+  - pateikė žodinius argumentus
+  - pristatė ekspertų išvadas
+
+
+---
+layout: top
+transition: view-transition
+---
+
+# **"Geniatech" VS McHardy (5)**
+
+- 2017 m. spalio 17 d. abi šalys Kelno apygardos teismui pateikė galutinius rašytinius paaiškinimus.
+
+- 2017 m. spalio 21 d. Kelno apygardos teismas pateikė išvadas ir priėmė galutinį sprendimą.
+
+---
+layout: top
+transition: view-transition
+---
+
+# **Kelno apygardos teismo išvados (1)**
+
+### **McHardy pusė**
+
+1. McHardy turi autorystės teisę į Linux branduolio komponentus: "Netfilter" ir "Network Stack".
+2. "Geniatech" naudojoto McHardžio kodą savo įrenginiuose.
+3. "Geniatech" pažeidė GPLv2 licenciją, nepaviešindama viso šaltinio kodo ir neįterpdama licencijos teksto.
+4. "Geniatech" GPLv2 licencija buvo nutraukta teisėtai.
+5. McHardy turi teisę reikalauti laikinosios drausminės priemonės.
+6. Skubos reikalavimas tenkinamas, nes McHardy į teismą kreipėsi anksčiau nei per mėnesį nuo žinios apie pažeidimą.
+7. McHardy nepiktnaudžiavo savo teisėmis.
+8. Suma, kurią "Geniatech" turi sumokėti McHardy tenkinama iš dalies (100 tūkst. Eur.)
+9. McHardy 2017 m. rūgpjūčio 4 d. priesaikos metu pateikti įrodymai laikomi pakankamais.
+
+
+---
+layout: top
+transition: view-transition
+---
+
+# **Kelno apygardos teismo išvados (2)**
+
+### **"Geniatech" pusė**
+
+1. Prašymas dėl drausminės priemonės yra pernelyg platus
+2. **McHardy** neįrodė sąvarankiškos kūrybos, todėl **neturi autorinės teisės į Linux branduolį**.
+3. **McHardy piktnaudžiavo savo teisėmis** ir vykdė sistemingą GPL licenciją pažeidusiųjų persekiojimo kampaniją, tokiu būdu siekdamas pelno.
+4. **GPLv2** licencija yra pernelyg abstrakti, todėl pagal Vokietijos teisę - **nėra privaloma vykdyti.**
+5. McHardy neteisėtai nutraukė licenciją.
+6. McHardy nebėra aktyvus Netlifier projekto prižiūrėtojas, todėl neturi teisės reikšti pretenzijų.
+7. Geniatech pateikė didžiają dali šaltinio kodo, todėl tenkina GPLv2 licencijos sąlygas.
+8. McHardy ieškinys yra pateiktas siekiant financinės naudos.
+
+---
+transition: view-transition
+---
+
+# **Kelno apygdardos teismo nutarimas**
+
+- **Data:** 2017 m. spalio 21 d.
+- **Nutarimas:** Atsakovui (Geniatech) uždrausta platinti ar viešai prieinamą daryti programinę įrangą ar firmware, kurioje yra McHardy sukurtas Linux kodas (Netfilter / Network Stack), jei nėra visiškai laikomasi GPLv2 licencijos sąlygų.
+- **Teisėjai:**
+  - dr. Koepsel (pirmininkaujantis teisėjas),
+  - Hübeler-Brakat (teisėja),
+  - dr. Gryska (nedalyvavo dėl atostogų).
+- **Ginčo vertė:** ~~200 000 EUR~~ &rarr; 100 000 EUR
+- **Vykdyti nedelsiant:** Taip
+
+---
+layout: center
+transition: view-transition
+---
+
+# **Nepabaiga**
+
+---
+layout: top
+transition: view-transition
+---
+
+# **Apeliacija (1)**
+
+### **Apžvalga:**
+
+1. **Bylos numeris:** 6 U 193/17
+2. **Nagrinėjo:** Aukštesnysis Kelno regioninis teismas.
+3. **Žodinio nagrinėjimo data:** 2018 kovo 7 d.
+4. **Tikslas:** Apeliacija dėl 2017 m. Kelno apygardos teismo (LG Köln) laikinojo draudimo.
+5. **Rezultatas:** McHardy atsiėmė prašymą dėl laikinojo draudimo;. Byla nutraukta, visos bylos išlaidos priteistos McHardy.
+
+---
+layout: top
+transition: view-transition
+---
+
+# **Apeliacija (2)**
+
+### **Teismo nustatyti faktai:**
+
+1. „Linux“ kūrėju yra laikomas Linus Torvalds (1991 m.).
+2. **Nėra bendraautorystės** – prie projekto prisidėjo daugiau kaip 15 000 kūrėjų. Jie yra laikomi projekto perdirbėjais, o ne bendraautoriaus.
+3. „Maintainer“ ar „core team member“ statusas nesuteikia autorių teisės.
+4. Ne visos „Linux“ versijos turi McHardžio rašytą kodą.
+5. Kodo dalies peržvalga (angl. code review) nesuteikia autorinės teisės į peržiūrimą kodo dalį.
+
+---
+layout: top
+transition: view-transition
+---
+# **Apeliacija (3)**
+
+### **Pirminės teismo išvados:**
+
+1. McHardis nėra bendraautorius.
+2. McHardis gali taikyti GPLv2 licenciją tik savo kodo daliai, o ne visam Linux branduoliui.
+3. McHardžio pateikti įkalčiai nėra pakankami:
+  - trūksta originalumo įrodymo,
+  - nėra aiškaus įrodymo apie.
+4. McHardžio rolė "maintainer" arba "head of Netlifier core team" nesuteikia jam autorystės teisės.
+5. McHardžio prašoma laikinojo draudimo apimtis yra pernelyg didelė: ji neturėtų apimti visų Linux versijų.
+
+---
+layout: top
+transition: view-transition
+layout: figure-side
+figureUrl: /public/clara-stroebe-george-hood.webp
+---
+# **Apeliacija (4)**
+
+### **Rezultatas:**
+
+1. McHardis atsitraukia.
+2. Laikinasis draudimas platinti įrangą panaikinamas.
+3. Teismas McHardžiui nurodo sumokėti visas teisines išlaidas.
+
+---
+layout: center
+transition: view-transition
+---
+
+# **Trolis teisininkams,**
+# **didvyris OSS bendruomenei?**
+
+---
+layout: top
+transition: view-transition
+---
+
+# **OSS bendruomenės sentimentas**
+
+<div class="relative w-full h-[500px]">
+
+  <img v-click class="absolute top-0 left-0 shadow-lg rounded-lg" src="/public/lwn_comment1.png" />
+
+  <img v-click class="absolute top-[30px] left-[40px] shadow-lg rounded-lg" src="/public/lwn_comment2.png" />
+
+  <img v-click class="absolute top-[100px] left-[-30px] shadow-lg rounded-lg" src="/public/lwn_comment3.png" />
+
+  <img v-click class="absolute top-[20px] left-[10px] shadow-lg rounded-lg" src="/public/lwn_comment4.png" />
+
+  <img v-click class="absolute top-[170px] left-[0px] shadow-lg rounded-lg" src="/public/lwn_comment6.png" />
+
+</div>
+
+---
+layout: top
+transition: view-transition
+---
+
+# **Herald Welte komentaras**
+
+- GPL vykdymas – būtinas, bet turi būti bendruomeninis
+- Atskiri kūrėjai turi turėti teisę ginti licenciją
+- Pelnas – negali būti tikslu.
+- Slaptas ar individualus vykdymas – blogai, nes neatspindi bendruomenės nuomonės
+- Teismo rezultatas – mišrus: per plati sankcija panaikinta (gerai), bet teismo precedento nėra (blogai)
+
+---
+layout: figure-side
+transition: view-transition
+figureUrl: public/Trollet_som_grunner.webp
+---
+
+# **Išvados**
+
+- GPL licencijos nesilaikančios įmonės - **BLOGAI**
+- Uždarbiaujantys, pavieniai projekto dalyviai - **IRGI BLOGAI**
+
+---
+layout: top
+transition: view-transition
+---
+
+# **Šaltiniai**
+
+---
+layout: center
+class: text-center
+---
+
+# Learn More
+
+[Documentation](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/resources/showcases)
+
+<PoweredBySlidev mt-10 />
