@@ -9,7 +9,7 @@ themeConfig:
   paginationX: r
   paginationY: b
   paginationPagesDisabled: [3, 7]
-title: GPL trolio nuopolis
+title: Patrick McHardy vs GENIATECH
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
@@ -22,11 +22,15 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
-layout: center
+layout: cover
 figureUrl: Old Mountain Troll.webp
+coverAuthor: Rizvan Chalilovas
+coverAuthorUrl: https://github.com/rchDev
+coverDate: 2025-11-04
 ---
 
-# **GPL trolio nuopolis**
+# **Patrick McHardy vs GENIATECH**
+### Riba tarp trolinimo ir vykdymo kontrolės
 
 
 ---
@@ -96,7 +100,7 @@ figureX: r
 mdc: true
 transition: view-transition
 layout: figure
-figureUrl: /public/Informatikos teisės pristatymas-1.svg
+figureUrl: /public/Informatikos teisės pristatymas-2.svg
 ---
 
 # **Veikimo principas**
@@ -132,9 +136,9 @@ transition: view-transition
 
 # **Patrick McHardy**
 - 🇩🇪 Vokietijos pilietis
-- Prisidėjo prie Linux branduolio ir "Netlifier" karkaso kūrimo 2006-2014 m.
+- Prisidėjo prie Linux branduolio ir "Netfilter" karkaso kūrimo 2006-2014 m.
 - 2016-2018 m. vykdė GPL licencijos atitikties užtikrinimo kampaniją, kurios metu iš kompanijų ir individualių kūrėjų išgavo apie 3 mln. eur.,
-todėl buvo pramintas "GPL trolio" vardu.
+todėl buvo pramintas GPL trolio vardu.
 
 ---
 layout: default
@@ -155,13 +159,11 @@ transition: view-transition
 
 
 ---
-layout: top
+layout: center
 transition: view-transition
 ---
 
 # **Kas lėmė schemos veiksmingumą?**
-
-<br/>
 
 ### Vokietijos teisinė sistema ir teismų praktika
 
@@ -171,30 +173,14 @@ transition: view-transition
 ---
 
 # **Vokietijos teisinė sistema**
-
 <br/>
 
-1. Teismas gali be žodinio nagrinėjimo išduoti laikiną teismo draudimą, kurį panaikinti iki jo termino pabaigos yra sunku.
-
-<br/>
-
-2. Atsakovo prieštaravimas nestabdo teismo draudimo
-
-<br/>
-
-3. Laisvas teismo vietos pasirinkimas
-
-<br/>
-
-4. Ieškovas gali bet kada atsiimti prašymą dėl draudimo
-
-<br/>
-
-5. Teismų uždarumas
-
-<br/>
-
-6. Ieškovas gali iš atsakovo reikalauti sumokėti baudą savo naudai
+- Teismas gali be žodinio nagrinėjimo išduoti laikiną teismo draudimą, kurį panaikinti iki jo termino pabaigos yra sunku.
+- Atsakovo prieštaravimas nestabdo teismo draudimo
+- Laisvas teismo vietos pasirinkimas
+- Ieškovas gali bet kada atsiimti prašymą dėl draudimo
+- Teismų uždarumas
+- Ieškovas gali iš atsakovo reikalauti sumokėti baudą savo naudai
 
 
 ---
@@ -208,22 +194,24 @@ transition: view-transition
 
 **Priešistorė:**
 
-- 2006-2014 m. Patrick McHardy prisideda prie "Netlifier" kūrimo.
-- 2016-2017 m. McHardy siautėja puldinėdamas įmones, kurios nesilaiko visų GPL licencijos nuostatų.
+- 2006-2014 m. Patrick McHardy prisidėjo prie „Netfilter“ projekto.
+- 2016-2017 m. McHardy siautėjo, puldinėdamas visų GPLv2 licencijos nuostatų nesilaikančių įmonių
 
 ---
 layout: top
 transition: view-transition
 ---
 
-# **"Geniatech" VS McHardy (1)**
+# **„Geniatech“ VS McHardy (1)**
+
+<br/>
 
 **Ginčas:**
 
-- "Geniatech" iš McHardy gavo perspėjimo laišką apie GPLv2 pažeidimą.
-- "Geniatech" 2017 liepos 17 d. gauna susitarimo laišką iš Patrick McHardy, kuriame McHardy prašo įmonės nutraukti pažeidimą ir sumokėti baudą.
-- 2017 liepos 24 d. "Geniatech" atsisako sutikti su sutarties sąlygomis.
-- 2017 liepos 26 d. Patrick McHardy nutraukia "Geniatech" GPLv2 licenciją.
+- „Geniatech“ iš McHardy gavo perspėjimo laišką apie GPLv2 pažeidimą.
+- „Geniatech“ 2017 liepos 17 d. gauna susitarimo laišką iš Patrick McHardy, kuriame McHardy prašo įmonės nutraukti pažeidimą ir sumokėti baudą.
+- 2017 liepos 24 d. „Geniatech“ atsisako sutikti su sutarties sąlygomis.
+- 2017 liepos 26 d. Patrick McHardy nutraukia „Geniatech“ GPLv2 licenciją.
 - 2017 rugpjūčio 4 d. Patrick McHardy pasirašo priesaikos deklaraciją, kurioje išdėsto esminius pažeidimo faktus kartu su įrodymais.
 
 ---
@@ -231,12 +219,14 @@ layout: top
 transition: view-transition
 ---
 
-# **"Geniatech" VS McHardy (2)**
+# **„Geniatech“ VS McHardy (2)**
 
-**Ginčas:**
+<br/>
 
-- 2017 rugpjūčio 10 d. Patrick McHardy Kelno apygrados teismui pateikė prašymą dėl laikinojo draudimo.
-- 2017 rugpjūčio 24 d. įvertinęs McHardžio pateiktus argumentus ir įrodymus, teismas įmonei "Geniatech" išdavė laikinąjį draudimą platinti produkciją, naudojančią McHardy rašytą programinį kodą, nes McHardžiui pavyko įrodyti:
+**Draudimas:**
+
+- 2017 rugpjūčio 10 d. Patrick McHardis Kelno apygrados teismui pateikė prašymą dėl laikinojo draudimo.
+- 2017 rugpjūčio 24 d. įmonei „Geniatech“ išdavė laikinąjį draudimą platinti produkciją, turinčią McHardžio rašytą programinį kodą, nes McHardžiui pavyko įrodyti:
   - autorystę,
   - autorinių teisių pažeidimo egzistavimą,
   - skubumo svarbą,
@@ -247,9 +237,13 @@ layout: top
 transition: view-transition
 ---
 
-# **"Geniatech" VS McHardy (3)**
+# **Geniatech VS McHardy (3)**
 
-- 2017 m. rugpjūčio 30 d. "Geniatech" pateikė prieštaravimą dėl laikinojo draudimo, kuriame teigė:
+<br/>
+
+**Pagrindiniai Geniatech argumentai:**
+
+- 2017 m. rugpjūčio 30 d. „Geniatech“ pateikė prieštaravimą dėl laikinojo draudimo, kuriame teigė:
   - Laikinasis draudimas yra pernelyg abstraktus ir yra taikomas per plačiai.
   - Patrick McHardy piktnaudžiauja savo teisėmis ir siekia pasipelnyti.
   - Skubos nėra, nes McHardy seniai žinojo apie pažeidimą ir nesikreipė į teismą.
@@ -261,28 +255,32 @@ layout: top
 transition: view-transition
 ---
 
-# **"Geniatech" VS McHardy (4)**
-
-- 2017 m. rugsėjį Kelno apygardos teismas paskelbė žodinio nagrinėjimo datą 2017 m. ir abi pusės apsikeitė:
-  - Procesiniais dokumentais.
-  - Techniniais įrodymais ir paaiškinimais.
-  - Parengtomis ekspertų išvadomis.
+# **Geniatech VS McHardy (4)**
 
 - 2017 m. spalio 12 d. Vokietijos Kelno apygardos teisme įvyko žodinis nagrinėjimas, kuriame abi šalys:
   - pateikė žodinius argumentus
   - pristatė ekspertų išvadas
 
-
----
-layout: top
-transition: view-transition
----
-
-# **"Geniatech" VS McHardy (5)**
-
 - 2017 m. spalio 17 d. abi šalys Kelno apygardos teismui pateikė galutinius rašytinius paaiškinimus.
 
-- 2017 m. spalio 21 d. Kelno apygardos teismas pateikė išvadas ir priėmė galutinį sprendimą.
+- 2017 m. spalio 21 d. Kelno apygardos teismas pateikė išvadas ir pateikė galutinį nutarimą.
+
+---
+layout: figure-side
+figureUrl: public/teismo_sprendimas.png
+---
+
+# **Teismo išvados ir nutarimas**
+
+- **Bylos numeris:** 14 O 188/17
+- **Vieta:** Kelno apygardos teismas
+- **Ieškovas:** Patrick McHardy
+- **Atsakovas:** Geniatech Europe GmbH
+- **Teisėjai:**
+  - Dr. Koepsel
+  - Hübeler-Brakat
+  - Dr. Gryska
+- **Esmė:** „Geniatech“ pažeidė autorines teises ir turi nutraukti su pažeidimu susijusią veiklą, bei ieškovui (Patrick McHardy) išmokėti kompensaciją.
 
 ---
 layout: top
@@ -291,18 +289,17 @@ transition: view-transition
 
 # **Kelno apygardos teismo išvados (1)**
 
-### **McHardy pusė**
+### **McHardžio pusė:**
 
-1. McHardy turi autorystės teisę į Linux branduolio komponentus: "Netfilter" ir "Network Stack".
-2. "Geniatech" naudojoto McHardžio kodą savo įrenginiuose.
-3. "Geniatech" pažeidė GPLv2 licenciją, nepaviešindama viso šaltinio kodo ir neįterpdama licencijos teksto.
-4. "Geniatech" GPLv2 licencija buvo nutraukta teisėtai.
-5. McHardy turi teisę reikalauti laikinosios drausminės priemonės.
-6. Skubos reikalavimas tenkinamas, nes McHardy į teismą kreipėsi anksčiau nei per mėnesį nuo žinios apie pažeidimą.
-7. McHardy nepiktnaudžiavo savo teisėmis.
-8. Suma, kurią "Geniatech" turi sumokėti McHardy tenkinama iš dalies (100 tūkst. Eur.)
-9. McHardy 2017 m. rūgpjūčio 4 d. priesaikos metu pateikti įrodymai laikomi pakankamais.
-
+1. **McHardy** turi autorystės teisę į „Linux“ branduolio komponentą: „Netfilter“. <span class="font-bold text-[#1565c0]">PALANKU</span>
+2. **McHardy** 2017 m. rūgpjūčio 4 d. priesaikos metu pateikti įrodymai laikomi pakankamais. <span class="font-bold text-[#1565c0]">PALANKU</span>
+3. **GENIATECH** naudojoto McHardžio kodą savo įrenginiuose. <span class="font-bold text-[#1565c0]">PALANKU</span>
+4. **GENIATECH** pažeidė GPLv2 licenciją, nepaviešindama viso šaltinio kodo ir neįterpdama licencijos teksto. <span class="font-bold text-[#1565c0]">PALANKU</span>
+5. **GENIATECH** GPLv2 licencija buvo nutraukta teisėtai. <span class="font-bold text-[#1565c0]">PALANKU</span>
+6. **McHardy** turi teisę reikalauti laikinosios drausminės priemonės. <span class="font-bold text-[#1565c0]">PALANKU</span>
+7. Skubos reikalavimas tenkinamas, nes McHardy į teismą kreipėsi anksčiau, nei per mėnesį nuo žinios apie pažeidimą.<span class="font-bold text-[#1565c0]">PALANKU</span>
+8. **McHardy** nepiktnaudžiavo savo teisėmis. <span class="font-bold text-[#1565c0]">PALANKU</span>
+9. Teismo išlaidos, kurias turės padengti **GENIATECH**, sumažintos nuo 200 tūkst. EUR iki 100 tūkst. EUR. <span class="font-bold text-[#ff9800]">IŠ DALIES</span>
 
 ---
 layout: top
@@ -311,16 +308,16 @@ transition: view-transition
 
 # **Kelno apygardos teismo išvados (2)**
 
-### **"Geniatech" pusė**
+### **GENIATECH pusė:**
 
-1. Prašymas dėl drausminės priemonės yra pernelyg platus
-2. **McHardy** neįrodė sąvarankiškos kūrybos, todėl **neturi autorinės teisės į Linux branduolį**.
-3. **McHardy piktnaudžiavo savo teisėmis** ir vykdė sistemingą GPL licenciją pažeidusiųjų persekiojimo kampaniją, tokiu būdu siekdamas pelno.
-4. **GPLv2** licencija yra pernelyg abstrakti, todėl pagal Vokietijos teisę - **nėra privaloma vykdyti.**
-5. McHardy neteisėtai nutraukė licenciją.
-6. McHardy nebėra aktyvus Netlifier projekto prižiūrėtojas, todėl neturi teisės reikšti pretenzijų.
-7. Geniatech pateikė didžiają dali šaltinio kodo, todėl tenkina GPLv2 licencijos sąlygas.
-8. McHardy ieškinys yra pateiktas siekiant financinės naudos.
+1. Prašymas dėl drausminės priemonės yra pernelyg platus. <span class="font-bold text-[#e63946]">NEPALANKU</span>
+2. **McHardy** neturi autorių teisių „Linux“ branduoliui. <span class="font-bold text-[#e63946]">NEPALANKU</span>
+3. **McHardy** piktnaudžiavo savo teisėmis ir vykdė sistemingą GPL licenciją pažeidusiųjų persekiojimo kampaniją, tokiu būdu siekdamas pelno. <span class="font-bold text-[#e63946]">NEPALANKU</span>
+4. **GPLv2** licencija yra pernelyg abstrakti, todėl **nėra privaloma vykdyti.** <span class="font-bold text-[#e63946]">NEPALANKU</span>
+5. **McHardy** neteisėtai nutraukė licenciją. <span class="font-bold text-[#e63946]">NEPALANKU</span>
+6. **McHardy** nėra aktyvus „Netfilter“ projekto prižiūrėtojas, todėl neturi teisės reikšti pretenzijų. <span class="font-bold text-[#e63946]">NEPALANKU</span>
+7. **GENIATECH** pateikė didžiają dali šaltinio kodo, todėl tenkina GPLv2 licencijos sąlygas. <span class="font-bold text-[#e63946]">NEPALANKU</span>
+8. **McHardy** siekia financinės naudos. <span class="font-bold text-[#e63946]">NEPALANKU</span>
 
 ---
 transition: view-transition
@@ -329,11 +326,11 @@ transition: view-transition
 # **Kelno apygdardos teismo nutarimas**
 
 - **Data:** 2017 m. spalio 21 d.
-- **Nutarimas:** Atsakovui (Geniatech) uždrausta platinti ar viešai prieinamą daryti programinę įrangą ar firmware, kurioje yra McHardy sukurtas Linux kodas (Netfilter / Network Stack), jei nėra visiškai laikomasi GPLv2 licencijos sąlygų.
+- **Nutarimas:** Atsakovui („Geniatech“) uždrausta platinti ar viešinti programinę įrangą, ar firmware, kurioje yra McHardžio sukurtas Linux kodas („Netfilter“), jei nėra visiškai laikomasi GPLv2 licencijos sąlygų.
 - **Teisėjai:**
-  - dr. Koepsel (pirmininkaujantis teisėjas),
-  - Hübeler-Brakat (teisėja),
-  - dr. Gryska (nedalyvavo dėl atostogų).
+  - Dr. Koepsel (pirmininkaujantis teisėjas)
+  - Hübeler-Brakat (teisėja)
+  - Dr. Gryska (nedalyvavo dėl atostogų)
 - **Ginčo vertė:** ~~200 000 EUR~~ &rarr; 100 000 EUR
 - **Vykdyti nedelsiant:** Taip
 
@@ -351,6 +348,8 @@ transition: view-transition
 
 # **Apeliacija (1)**
 
+<br/>
+
 ### **Apžvalga:**
 
 1. **Bylos numeris:** 6 U 193/17
@@ -366,9 +365,11 @@ transition: view-transition
 
 # **Apeliacija (2)**
 
+<br/>
+
 ### **Teismo nustatyti faktai:**
 
-1. „Linux“ kūrėju yra laikomas Linus Torvalds (1991 m.).
+1. „Linux“ kūrėju yra laikomas Linus Torvalds (1991 m.)
 2. **Nėra bendraautorystės** – prie projekto prisidėjo daugiau kaip 15 000 kūrėjų. Jie yra laikomi projekto perdirbėjais, o ne bendraautoriaus.
 3. „Maintainer“ ar „core team member“ statusas nesuteikia autorių teisės.
 4. Ne visos „Linux“ versijos turi McHardžio rašytą kodą.
@@ -380,15 +381,17 @@ transition: view-transition
 ---
 # **Apeliacija (3)**
 
+<br/>
+
 ### **Pirminės teismo išvados:**
 
-1. McHardis nėra bendraautorius.
-2. McHardis gali taikyti GPLv2 licenciją tik savo kodo daliai, o ne visam Linux branduoliui.
-3. McHardžio pateikti įkalčiai nėra pakankami:
+- McHardis nėra bendraautorius.
+- McHardis gali taikyti GPLv2 licenciją tik savo kodo daliai, o ne visam „Linux“ branduoliui.
+- McHardžio pateikti įkalčiai nėra pakankami:
   - trūksta originalumo įrodymo,
   - nėra aiškaus įrodymo apie.
-4. McHardžio rolė "maintainer" arba "head of Netlifier core team" nesuteikia jam autorystės teisės.
-5. McHardžio prašoma laikinojo draudimo apimtis yra pernelyg didelė: ji neturėtų apimti visų Linux versijų.
+- McHardžio rolė „maintainter“ arba „head of Netfilter core team“ nesuteikia jam autorystės teisės.
+- McHardžio prašoma laikinojo draudimo apimtis yra pernelyg didelė: ji neturėtų apimti visų „Linux“ versijų.
 
 ---
 layout: top
@@ -396,7 +399,10 @@ transition: view-transition
 layout: figure-side
 figureUrl: /public/clara-stroebe-george-hood.webp
 ---
+
 # **Apeliacija (4)**
+
+<br/>
 
 ### **Rezultatas:**
 
@@ -453,9 +459,15 @@ figureUrl: public/Trollet_som_grunner.webp
 ---
 
 # **Išvados**
+- GPL licencijos nesilaikančios įmonės - <span class="font-bold text-[#e63946]">BLOGAI</span>
+- Uždarbiaujantys, pavieniai projekto dalyviai - <span class="font-bold text-[#e63946]">IRGI BLOGAI</span>
 
-- GPL licencijos nesilaikančios įmonės - **BLOGAI**
-- Uždarbiaujantys, pavieniai projekto dalyviai - **IRGI BLOGAI**
+---
+layout: center
+transition: view-transition
+---
+
+# **Pabaiga**
 
 ---
 layout: top
@@ -463,14 +475,14 @@ transition: view-transition
 ---
 
 # **Šaltiniai**
-
----
-layout: center
-class: text-center
----
-
-# Learn More
-
-[Documentation](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/resources/showcases)
+1. [Netfilter project: Settlement with Patrick McHardy](https://lwn.net/Articles/882397/)
+2. [The rise of copyright trolls](https://lwn.net/Articles/721458/)
+3. [Report from the Geniatech vs. McHardy GPL violation court hearing](https://laforge.gnumonks.org/blog/20180307-mchardy-gpl/)
+4. [Welte: Report from the Geniatech vs. McHardy GPL violation court hearing](https://lwn.net/Articles/748761/)
+5. [What makes the drivers unsalvageable? Proprietary blobs interacting with the Linux kernel?](https://news.ycombinator.com/item?id=30827779)
+6. [Kelno apygardos teismo nuosprendis](http://docs.dpaq.de/13314-urteil_lg_k_ln.pdf)
+7. [Opposing the Monetization of Linux: McHardy v.
+Geniatech & Addressing Copyright “Trolling” in
+Germany](https://www.vossius.eu/fileadmin/news_docs/Opposing_the_Monetization_of_Linux_McHardy_v.__Geniatech___Addressing_Copyright_%E2%80%9CTrolling%E2%80%9D_in__Germany.pdf)
 
 <PoweredBySlidev mt-10 />
