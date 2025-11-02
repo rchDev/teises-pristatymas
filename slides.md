@@ -61,7 +61,7 @@ figureWidth: 90%
 mdc: true
 transition: view-transition
 layout: figure-side
-figureUrl: public/Norgeillus 1-1.webp
+figureUrl: /Norgeillus 1-1.webp
 figureX: r
 ---
 
@@ -129,7 +129,7 @@ transition: view-transition
 
 ---
 layout: figure-side
-figureUrl: public/masked_villain.png
+figureUrl: /masked_villain.png
 mdc: true
 transition: view-transition
 ---
