@@ -283,7 +283,7 @@ figureUrl: public/teismo_sprendimas.png
 - **Bylos numeris:** 14 O 188/17
 - **Vieta:** Kelno apygardos teismas
 - **Ieškovas:** Patrick McHardy
-- **Atsakovas:** Geniatech Europe GmbH
+- **Atsakovas:** „Geniatech“ Europe GmbH
 - **Teisėjai:**
   - Dr. Koepsel
   - Hübeler-Brakat
@@ -360,11 +360,16 @@ transition: view-transition
 
 ### **Apžvalga:**
 
-1. **Bylos numeris:** 6 U 193/17
-2. **Nagrinėjo:** Aukštesnysis Kelno regioninis teismas.
-3. **Žodinio nagrinėjimo data:** 2018 kovo 7 d.
-4. **Tikslas:** Apeliacija dėl 2017 m. Kelno apygardos teismo (LG Köln) laikinojo draudimo.
-5. **Rezultatas:** McHardy atsiėmė prašymą dėl laikinojo draudimo;. Byla nutraukta, visos bylos išlaidos priteistos McHardy.
+- **Bylos numeris:** 6 U 193/17
+- **Apeliantas:** „Geniatech“ Europe GmbH
+- **Atsakovas:** Patrick McHardy
+- **Nagrinėjo:** Aukštesnysis Kelno regioninis teismas.
+- **Žodinio nagrinėjimo data:** 2018 kovo 7 d.
+- **Tikslas:** Apeliacija dėl 2017 m. Kelno apygardos teismo (LG Köln) laikinojo draudimo sprendimo.
+- **Rezultatas:**
+  - Atsakovas (McHardy) atsiėmė prašymą išlaikyti laikinąjį draudimą,
+  - apeliacijos byla nutraukta,
+  - McHardžiui nurodyta sumokėti visas teismo išlaidas.
 
 ---
 layout: top
@@ -395,9 +400,9 @@ transition: view-transition
 
 - McHardis nėra bendraautorius.
 - McHardis gali taikyti GPLv2 tik savo kodo daliai, o ne visam „Linux“ branduoliui.
-- McHardžio pateikti įkalčiai nėra pakankami:
+- McHardžio pateikti įkalčiai nėra pakankami, nes:
   - trūksta originalumo įrodymo,
-  - nesugebėjo pateikti konkrečių savo darbo įrodymų, kuriuos būtų galima laikyti jo paties sukurtu kūriniu, todėl indėlis yra laikomas techniniu, o ne kūrybiniu.
+  - McHardis nesugebėjo pateikti konkrečių savo darbo įrodymų, kuriuos būtų galima laikyti jo kūrybiniu darbu, todėl indėlis yra laikomas techniniu, o ne kūrybiniu.
 - McHardžio rolė „maintainter“ arba „head of Netfilter core team“ nesuteikia jam autorystės teisės.
 - McHardžio prašoma laikinojo draudimo apimtis yra pernelyg didelė: ji neturėtų apimti visų „Linux“ versijų.
 
