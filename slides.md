@@ -24,7 +24,7 @@ transition: slide-left
 mdc: true
 layout: cover
 figureUrl: Old Mountain Troll.webp
-coverAuthor: Rizvan Chalilovas
+coverAuthor: PRIf-22/1 stud. Rizvan Chalilovas
 coverAuthorUrl: https://github.com/rchDev
 coverDate: 2025-11-04
 ---
