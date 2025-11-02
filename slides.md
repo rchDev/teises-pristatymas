@@ -30,7 +30,7 @@ coverDate: 2025-11-04
 ---
 
 # **Patrick McHardy vs GENIATECH**
-### Riba tarp trolinimo ir autorių teisių gynybos
+### Riba tarp trolinimo ir autorių teisių gynimo
 
 
 ---
