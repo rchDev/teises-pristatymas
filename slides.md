@@ -469,7 +469,7 @@ figureUrl: public/Trollet_som_grunner.webp
 ---
 
 # **Išvados**
-- GPL licencijos nesilaikančios įmonės - <span class="font-bold text-[#e63946]">BLOGAI</span>
+- GPL nesilaikančios įmonės - <span class="font-bold text-[#e63946]">BLOGAI</span>
 - Uždarbiaujantys, pavieniai projekto dalyviai - <span class="font-bold text-[#e63946]">IRGI BLOGAI</span>
 
 ---
