@@ -402,7 +402,7 @@ transition: view-transition
 - McHardis gali taikyti GPLv2 tik savo kodo daliai, o ne visam „Linux“ branduoliui.
 - McHardžio pateikti įkalčiai nėra pakankami, nes:
   - trūksta originalumo įrodymo,
-  - McHardis nesugebėjo pateikti konkrečių savo darbo įrodymų, kuriuos būtų galima laikyti jo kūrybiniu darbu, todėl indėlis yra laikomas techniniu, o ne kūrybiniu.
+  - McHardis nesugebėjo pateikti konkrečių savo darbo įrodymų, kuriuos būtų galima laikyti jo kūrybiniu darbu, todėl McHardžio indėlis yra laikomas techniniu, o ne kūrybiniu.
 - McHardžio rolė „maintainter“ arba „head of Netfilter core team“ nesuteikia jam autorystės teisės.
 - McHardžio prašoma laikinojo draudimo apimtis yra pernelyg didelė: ji neturėtų apimti visų „Linux“ versijų.
 
