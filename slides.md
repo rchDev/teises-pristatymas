@@ -81,7 +81,7 @@ kad gautų finansinę naudą, o ne siektų teisingumo ar realaus teisių įgyven
 mdc: true
 transition: view-transition
 layout: figure-side
-figureUrl: public/two_trolls.webp
+figureUrl: /two_trolls.webp
 figureX: r
 ---
 
@@ -100,7 +100,7 @@ figureX: r
 mdc: true
 transition: view-transition
 layout: figure
-figureUrl: /public/Informatikos teisės pristatymas-2.svg
+figureUrl: /Informatikos teisės pristatymas-2.svg
 ---
 
 # **Veikimo principas**
