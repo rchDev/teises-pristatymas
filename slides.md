@@ -30,7 +30,7 @@ coverDate: 2025-11-04
 ---
 
 # **Patrick McHardy vs GENIATECH**
-### Riba tarp trolinimo ir vykdymo kontrolės
+### Riba tarp trolinimo ir autorių teisių gynybos
 
 
 ---
@@ -135,9 +135,12 @@ transition: view-transition
 ---
 
 # **Patrick McHardy**
+
+<br/>
+
 - 🇩🇪 Vokietijos pilietis
 - Prisidėjo prie Linux branduolio ir "Netfilter" karkaso kūrimo 2006-2014 m.
-- 2016-2018 m. vykdė GPL licencijos atitikties užtikrinimo kampaniją, kurios metu iš kompanijų ir individualių kūrėjų išgavo apie 3 mln. eur.,
+- 2016-2018 m. vykdė General Public License (GPL) atitikties užtikrinimo kampaniją, kurios metu iš kompanijų ir individualių kūrėjų išgavo apie 3 mln. eur.,
 todėl buvo pramintas GPL trolio vardu.
 
 ---
@@ -148,14 +151,15 @@ transition: view-transition
 
 # **Kaip veikė McHardis?**
 
-**Taikiniai:** smulkos ar vidutinio dydžio įmonės, padariusios daug neesminių GPLv2 licencijos pažeidimų.
+<br/>
+
+**Taikiniai:** smulkos ar vidutinio dydžio įmonės, padariusios daug neesminių GPLv2 pažeidimų.
 
 **Schema:**
-1. Atsiunčiamas cease-and-desist laiškas, kuriame:
+- Atsiunčiamas cease-and-desist laiškas, kuriame:
     - nurodoma sumokėti smulkią kontrakto pažeidimo baudą,
     - sutikti su svarbia sąlyga, jog pakartotinių licencijos pažeidimo atvejų metu, sutarties dalyvis turės sumokėti didėjančią baudą.
-2. Aukai sutikus su pirmosios sutarties sąlygomis, siunčiami nauji cease-and-desist laiškai, kuriuose minimi kiti GPL licencijos pažeidimai su reikalavimais mokėti vis didesnes baudas
-    ir sutikti su papildomomis sąlygomis.
+- Aukai sutikus su pirmosios sutarties sąlygomis, siunčiami nauji cease-and-desist laiškai, kuriuose minimi kiti GPL pažeidimai su reikalavimais mokėti vis didesnes baudas ir sutikti su papildomomis sąlygomis.
 
 
 ---
@@ -195,14 +199,14 @@ transition: view-transition
 **Priešistorė:**
 
 - 2006-2014 m. Patrick McHardy prisidėjo prie „Netfilter“ projekto.
-- 2016-2017 m. McHardy siautėjo, puldinėdamas visų GPLv2 licencijos nuostatų nesilaikančių įmonių
+- 2016-2017 m. McHardy siautėjo, puldinėdamas visų GPLv2 nuostatų nesilaikančių įmonių
 
 ---
 layout: top
 transition: view-transition
 ---
 
-# **„Geniatech“ VS McHardy (1)**
+# **GENIATECH VS McHardy (1)**
 
 <br/>
 
@@ -211,7 +215,7 @@ transition: view-transition
 - „Geniatech“ iš McHardy gavo perspėjimo laišką apie GPLv2 pažeidimą.
 - „Geniatech“ 2017 liepos 17 d. gauna susitarimo laišką iš Patrick McHardy, kuriame McHardy prašo įmonės nutraukti pažeidimą ir sumokėti baudą.
 - 2017 liepos 24 d. „Geniatech“ atsisako sutikti su sutarties sąlygomis.
-- 2017 liepos 26 d. Patrick McHardy nutraukia „Geniatech“ GPLv2 licenciją.
+- 2017 liepos 26 d. Patrick McHardy nutraukia „Geniatech“ GPLv2.
 - 2017 rugpjūčio 4 d. Patrick McHardy pasirašo priesaikos deklaraciją, kurioje išdėsto esminius pažeidimo faktus kartu su įrodymais.
 
 ---
@@ -219,7 +223,7 @@ layout: top
 transition: view-transition
 ---
 
-# **„Geniatech“ VS McHardy (2)**
+# **GENIATECH VS McHardy (2)**
 
 <br/>
 
@@ -237,7 +241,7 @@ layout: top
 transition: view-transition
 ---
 
-# **Geniatech VS McHardy (3)**
+# **GENIATECH VS McHardy (3)**
 
 <br/>
 
@@ -247,7 +251,7 @@ transition: view-transition
   - Laikinasis draudimas yra pernelyg abstraktus ir yra taikomas per plačiai.
   - Patrick McHardy piktnaudžiauja savo teisėmis ir siekia pasipelnyti.
   - Skubos nėra, nes McHardy seniai žinojo apie pažeidimą ir nesikreipė į teismą.
-  - GPLv2 licencija yra pernelyg abstrakti ir dviprasmiška, todėl negali būti taikoma Vokietijoje.
+  - GPLv2 yra pernelyg abstrakti ir dviprasmiška, todėl negali būti taikoma Vokietijoje.
   - McHardy indėlis į Linux branduolį yra pernelyg menkas, kad jam būtų suteikta autorystės teisė.
 
 ---
@@ -255,7 +259,11 @@ layout: top
 transition: view-transition
 ---
 
-# **Geniatech VS McHardy (4)**
+# **GENIATECH VS McHardy (4)**
+
+<br/>
+
+**Žodinis nagrinėjimas ir galutinis nutarimas:**
 
 - 2017 m. spalio 12 d. Vokietijos Kelno apygardos teisme įvyko žodinis nagrinėjimas, kuriame abi šalys:
   - pateikė žodinius argumentus
@@ -294,8 +302,8 @@ transition: view-transition
 1. **McHardy** turi autorystės teisę į „Linux“ branduolio komponentą: „Netfilter“. <span class="font-bold text-[#1565c0]">PALANKU</span>
 2. **McHardy** 2017 m. rūgpjūčio 4 d. priesaikos metu pateikti įrodymai laikomi pakankamais. <span class="font-bold text-[#1565c0]">PALANKU</span>
 3. **GENIATECH** naudojoto McHardžio kodą savo įrenginiuose. <span class="font-bold text-[#1565c0]">PALANKU</span>
-4. **GENIATECH** pažeidė GPLv2 licenciją, nepaviešindama viso šaltinio kodo ir neįterpdama licencijos teksto. <span class="font-bold text-[#1565c0]">PALANKU</span>
-5. **GENIATECH** GPLv2 licencija buvo nutraukta teisėtai. <span class="font-bold text-[#1565c0]">PALANKU</span>
+4. **GENIATECH** pažeidė GPLv2, nepaviešindama viso šaltinio kodo ir neįterpdama licencijos teksto. <span class="font-bold text-[#1565c0]">PALANKU</span>
+5. **GENIATECH** GPLv2 buvo nutraukta teisėtai. <span class="font-bold text-[#1565c0]">PALANKU</span>
 6. **McHardy** turi teisę reikalauti laikinosios drausminės priemonės. <span class="font-bold text-[#1565c0]">PALANKU</span>
 7. Skubos reikalavimas tenkinamas, nes McHardy į teismą kreipėsi anksčiau, nei per mėnesį nuo žinios apie pažeidimą.<span class="font-bold text-[#1565c0]">PALANKU</span>
 8. **McHardy** nepiktnaudžiavo savo teisėmis. <span class="font-bold text-[#1565c0]">PALANKU</span>
@@ -312,11 +320,11 @@ transition: view-transition
 
 1. Prašymas dėl drausminės priemonės yra pernelyg platus. <span class="font-bold text-[#e63946]">NEPALANKU</span>
 2. **McHardy** neturi autorių teisių „Linux“ branduoliui. <span class="font-bold text-[#e63946]">NEPALANKU</span>
-3. **McHardy** piktnaudžiavo savo teisėmis ir vykdė sistemingą GPL licenciją pažeidusiųjų persekiojimo kampaniją, tokiu būdu siekdamas pelno. <span class="font-bold text-[#e63946]">NEPALANKU</span>
-4. **GPLv2** licencija yra pernelyg abstrakti, todėl **nėra privaloma vykdyti.** <span class="font-bold text-[#e63946]">NEPALANKU</span>
+3. **McHardy** piktnaudžiavo savo teisėmis ir vykdė sistemingą GPL pažeidusiųjų persekiojimo kampaniją, tokiu būdu siekdamas pelno. <span class="font-bold text-[#e63946]">NEPALANKU</span>
+4. **GPLv2** yra pernelyg abstrakti, todėl **nėra privaloma vykdyti.** <span class="font-bold text-[#e63946]">NEPALANKU</span>
 5. **McHardy** neteisėtai nutraukė licenciją. <span class="font-bold text-[#e63946]">NEPALANKU</span>
 6. **McHardy** nėra aktyvus „Netfilter“ projekto prižiūrėtojas, todėl neturi teisės reikšti pretenzijų. <span class="font-bold text-[#e63946]">NEPALANKU</span>
-7. **GENIATECH** pateikė didžiają dali šaltinio kodo, todėl tenkina GPLv2 licencijos sąlygas. <span class="font-bold text-[#e63946]">NEPALANKU</span>
+7. **GENIATECH** pateikė didžiają dali šaltinio kodo, todėl tenkina GPLv2 sąlygas. <span class="font-bold text-[#e63946]">NEPALANKU</span>
 8. **McHardy** siekia financinės naudos. <span class="font-bold text-[#e63946]">NEPALANKU</span>
 
 ---
@@ -326,7 +334,7 @@ transition: view-transition
 # **Kelno apygdardos teismo nutarimas**
 
 - **Data:** 2017 m. spalio 21 d.
-- **Nutarimas:** Atsakovui („Geniatech“) uždrausta platinti ar viešinti programinę įrangą, ar firmware, kurioje yra McHardžio sukurtas Linux kodas („Netfilter“), jei nėra visiškai laikomasi GPLv2 licencijos sąlygų.
+- **Nutarimas:** Atsakovui („Geniatech“) uždrausta platinti ar viešinti programinę įrangą, ar firmware, kurioje yra McHardžio sukurtas Linux kodas („Netfilter“), jei nėra visiškai laikomasi GPLv2 sąlygų.
 - **Teisėjai:**
   - Dr. Koepsel (pirmininkaujantis teisėjas)
   - Hübeler-Brakat (teisėja)
@@ -370,7 +378,7 @@ transition: view-transition
 ### **Teismo nustatyti faktai:**
 
 1. „Linux“ kūrėju yra laikomas Linus Torvalds (1991 m.)
-2. **Nėra bendraautorystės** – prie projekto prisidėjo daugiau kaip 15 000 kūrėjų. Jie yra laikomi projekto perdirbėjais, o ne bendraautoriaus.
+2. Nėra bendraautorystės – prie projekto prisidėjo daugiau kaip 15 000 kūrėjų. Jie yra laikomi projekto perdirbėjais, o ne bendraautoriaus.
 3. „Maintainer“ ar „core team member“ statusas nesuteikia autorių teisės.
 4. Ne visos „Linux“ versijos turi McHardžio rašytą kodą.
 5. Kodo dalies peržvalga (angl. code review) nesuteikia autorinės teisės į peržiūrimą kodo dalį.
@@ -386,10 +394,10 @@ transition: view-transition
 ### **Pirminės teismo išvados:**
 
 - McHardis nėra bendraautorius.
-- McHardis gali taikyti GPLv2 licenciją tik savo kodo daliai, o ne visam „Linux“ branduoliui.
+- McHardis gali taikyti GPLv2 tik savo kodo daliai, o ne visam „Linux“ branduoliui.
 - McHardžio pateikti įkalčiai nėra pakankami:
   - trūksta originalumo įrodymo,
-  - nėra aiškaus įrodymo apie.
+  - nesugebėjo pateikti konkrečių savo darbo įrodymų, kuriuos būtų galima laikyti jo paties sukurtu kūriniu, todėl indėlis yra laikomas techniniu, o ne kūrybiniu.
 - McHardžio rolė „maintainter“ arba „head of Netfilter core team“ nesuteikia jam autorystės teisės.
 - McHardžio prašoma laikinojo draudimo apimtis yra pernelyg didelė: ji neturėtų apimti visų „Linux“ versijų.
 
@@ -407,7 +415,7 @@ figureUrl: /public/clara-stroebe-george-hood.webp
 ### **Rezultatas:**
 
 1. McHardis atsitraukia.
-2. Laikinasis draudimas platinti įrangą panaikinamas.
+2. Laikinasis draudimas GENIATECH platinti įrangą - panaikinamas.
 3. Teismas McHardžiui nurodo sumokėti visas teisines išlaidas.
 
 ---
@@ -446,11 +454,13 @@ transition: view-transition
 
 # **Herald Welte komentaras**
 
-- GPL vykdymas – būtinas, bet turi būti bendruomeninis
-- Atskiri kūrėjai turi turėti teisę ginti licenciją
-- Pelnas – negali būti tikslu.
-- Slaptas ar individualus vykdymas – blogai, nes neatspindi bendruomenės nuomonės
-- Teismo rezultatas – mišrus: per plati sankcija panaikinta (gerai), bet teismo precedento nėra (blogai)
+- Pavieniai kūrėjai turi išlaikyti teisę ginti autorines teises.
+- Versti įmones laikytis licencijos sąlygų nėra smerktina veikla.
+- Siekiai turi būti atviri ir žinomi bendruomenei.
+- Individualūs kūrėjai neturi pelnytis.
+- Teismo rezultatas:
+  - pernelyg griežtas draudimas įmonei buvo panaikintas - <span class="font-bold text-[#1565c0]">GERAI</span>,
+  - nesukurtas precedentas, nes nėra galutinio sprendimo - <span class="font-bold text-[#e63946]">BLOGAI</span>.
 
 ---
 layout: figure-side
