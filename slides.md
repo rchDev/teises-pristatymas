@@ -61,7 +61,7 @@ figureWidth: 90%
 mdc: true
 transition: view-transition
 layout: figure-side
-figureUrl: /Norgeillus 1-1.webp
+figureUrl: /norgeillus.webp
 figureX: r
 ---
 
