@@ -100,7 +100,7 @@ figureX: r
 mdc: true
 transition: view-transition
 layout: figure
-figureUrl: /Informatikos teisės pristatymas-2.svg
+figureUrl: /veikimo_principas_v2.svg
 ---
 
 # **Veikimo principas**
