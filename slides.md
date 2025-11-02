@@ -275,7 +275,7 @@ transition: view-transition
 
 ---
 layout: figure-side
-figureUrl: public/teismo_sprendimas.png
+figureUrl: /teismo_sprendimas.png
 ---
 
 # **Teismo išvados ir nutarimas**
@@ -410,7 +410,7 @@ transition: view-transition
 layout: top
 transition: view-transition
 layout: figure-side
-figureUrl: /public/clara-stroebe-george-hood.webp
+figureUrl: /clara-stroebe-george-hood.webp
 ---
 
 # **Apeliacija (4)**
@@ -440,15 +440,15 @@ transition: view-transition
 
 <div class="relative w-full h-[500px]">
 
-  <img v-click class="absolute top-0 left-0 shadow-lg rounded-lg" src="/public/lwn_comment1.png" />
+  <img v-click class="absolute top-0 left-0 shadow-lg rounded-lg" src="/lwn_comment1.png" />
 
-  <img v-click class="absolute top-[30px] left-[40px] shadow-lg rounded-lg" src="/public/lwn_comment2.png" />
+  <img v-click class="absolute top-[30px] left-[40px] shadow-lg rounded-lg" src="/lwn_comment2.png" />
 
-  <img v-click class="absolute top-[100px] left-[-30px] shadow-lg rounded-lg" src="/public/lwn_comment3.png" />
+  <img v-click class="absolute top-[100px] left-[-30px] shadow-lg rounded-lg" src="/lwn_comment3.png" />
 
-  <img v-click class="absolute top-[20px] left-[10px] shadow-lg rounded-lg" src="/public/lwn_comment4.png" />
+  <img v-click class="absolute top-[20px] left-[10px] shadow-lg rounded-lg" src="/lwn_comment4.png" />
 
-  <img v-click class="absolute top-[170px] left-[0px] shadow-lg rounded-lg" src="/public/lwn_comment6.png" />
+  <img v-click class="absolute top-[170px] left-[0px] shadow-lg rounded-lg" src="/lwn_comment6.png" />
 
 </div>
 
@@ -470,7 +470,7 @@ transition: view-transition
 ---
 layout: figure-side
 transition: view-transition
-figureUrl: public/Trollet_som_grunner.webp
+figureUrl: /Trollet_som_grunner.webp
 ---
 
 # **Išvados**
