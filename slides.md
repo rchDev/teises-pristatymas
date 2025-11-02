@@ -43,13 +43,13 @@ figureWidth: 90%
 
 # **Trolių rūšys** {.vt-title}
 
-- Folkloriniai / mitologiniai {.vt-item}
-- Socialiniai {.vt-item}
-  - Interneto {.vt-item}
-    - Provokuojantys {.vt-item}
-    - Įžeidinėjantys / Priekabiaujantys {.vt-item}
-    - „Rūpestingi“ (apsimetantys draugiškais) {.vt-item}
-    - Valstybiniai / Propagandiniai {.vt-item}
+- Folkloriniai / mitologiniai
+- Socialiniai
+  - Interneto
+    - Provokuojantys
+    - Įžeidinėjantys / Priekabiaujantys
+    - „Rūpestingi“ (apsimetantys draugiškais)
+    - Valstybiniai / Propagandiniai
   - Gatvės {.vt-item}
   - Dezinformacijos {.vt-item}
 - <span v-mark.box.orange="{color: '#ffb347', animationDuration:800}">Teisiniai (Intelektinės Nuosavybės)</span> {.vt-item}
@@ -140,7 +140,7 @@ transition: view-transition
 
 - 🇩🇪 Vokietijos pilietis
 - Prisidėjo prie Linux branduolio ir "Netfilter" karkaso kūrimo 2006-2014 m.
-- 2016-2018 m. vykdė General Public License (GPL) atitikties užtikrinimo kampaniją, kurios metu iš kompanijų ir individualių kūrėjų išgavo apie 3 mln. eur.,
+- 2016-2018 m. vykdė General Public License (GPL) atitikties užtikrinimo kampaniją, kurios metu iš kompanijų ir individualių kūrėjų išgavo apie 1.8 mln. eur.,
 todėl buvo pramintas GPL trolio vardu.
 
 ---
@@ -334,7 +334,7 @@ transition: view-transition
 # **Kelno apygdardos teismo nutarimas**
 
 - **Data:** 2017 m. spalio 21 d.
-- **Nutarimas:** Atsakovui („Geniatech“) uždrausta platinti ar viešinti programinę įrangą, ar firmware, kurioje yra McHardžio sukurtas Linux kodas („Netfilter“), jei nėra visiškai laikomasi GPLv2 sąlygų.
+- **Nutarimas:** Atsakovui (GENIATECH) uždrausta platinti ar viešinti programinę įrangą, ar firmware, kurioje yra McHardžio sukurtas Linux kodas („Netfilter“), jei nėra visiškai laikomasi GPLv2 sąlygų.
 - **Teisėjai:**
   - Dr. Koepsel (pirmininkaujantis teisėjas)
   - Hübeler-Brakat (teisėja)
@@ -419,9 +419,9 @@ figureUrl: /clara-stroebe-george-hood.webp
 
 ### **Rezultatas:**
 
-1. McHardis atsitraukia.
-2. Laikinasis draudimas GENIATECH platinti įrangą - panaikinamas.
-3. Teismas McHardžiui nurodo sumokėti visas teisines išlaidas.
+- McHardis atsitraukia.
+- Laikinasis draudimas GENIATECH platinti įrangą - panaikinamas.
+- Teismas McHardžiui nurodo sumokėti visas teisines išlaidas.
 
 ---
 layout: center
@@ -429,7 +429,7 @@ transition: view-transition
 ---
 
 # **Trolis teisininkams,**
-# **didvyris OSS bendruomenei?**
+# **licencijos riteris OSS bendruomenei?**
 
 ---
 layout: top
@@ -459,6 +459,8 @@ transition: view-transition
 
 # **Herald Welte komentaras**
 
+<br/>
+
 - Pavieniai kūrėjai turi išlaikyti teisę ginti autorines teises.
 - Versti įmones laikytis licencijos sąlygų nėra smerktina veikla.
 - Siekiai turi būti atviri ir žinomi bendruomenei.
@@ -474,8 +476,16 @@ figureUrl: /Trollet_som_grunner.webp
 ---
 
 # **Išvados**
+
+<br/>
+
 - GPL nesilaikančios įmonės - <span class="font-bold text-[#e63946]">BLOGAI</span>
 - Uždarbiaujantys, pavieniai projekto dalyviai - <span class="font-bold text-[#e63946]">IRGI BLOGAI</span>
+- Trolį nuo licencijos riterio skiria:
+
+|     | **Trolis**     | **Riteris**  |
+| ------- | ------------ | ------- |
+| **Pirminė motyvacija** |  finansinė nauda | atviro kodo įdėjų gynimas |
 
 ---
 layout: center
