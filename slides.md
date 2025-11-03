@@ -7,7 +7,7 @@ fonts:
   mono: Roboto
 themeConfig:
   paginationX: r
-  paginationY: b
+  paginationY: t
   paginationPagesDisabled: [3, 7]
 title: Patrick McHardy vs GENIATECH
 info: |
@@ -38,6 +38,8 @@ layout: figure-side
 mdc: true
 transition: view-transition
 figureUrl: /multiple_trolls.png
+figureCaption: John Bauer 1915
+figureFootnoteNumber: 1
 figureWidth: 90%
 ---
 
@@ -57,11 +59,21 @@ figureWidth: 90%
     - <span v-mark.highlight="{color: '#e63946', animationDuration:800}">Autorių teisių / Licencijų troliai</span> {.vt-item}
     - Prekių ženklų {.vt-item}
 
+<Footnotes>
+  <Footnote :number="1">
+     Source: <a href="https://mythus.fandom.com/wiki/Troll/Gallery?file=John_Bauer_1915.jpg" target="_blank" rel="noopener noreferrer">
+      Myth and Folklore Wiki
+    </a>
+  </Footnote>
+</Footnotes>
+
 ---
 mdc: true
 transition: view-transition
 layout: figure-side
 figureUrl: /norgeillus.webp
+figureCaption: Norgeillus
+figureFootnoteNumber: 1
 figureX: r
 ---
 
@@ -77,12 +89,21 @@ kad gautų finansinę naudą, o ne siektų teisingumo ar realaus teisių įgyven
 - <span v-mark.box="{color: '#ffb347', animationDuration:800}">Autorių teisių / Licencijų troliai</span>
 - Prekių ženklų troliai
 
+<Footnotes>
+  <Footnote :number="1">
+     Source: <a href="https://mythus.fandom.com/wiki/Troll/Gallery?file=Norgelius_1-1.jpg" target="_blank" rel="noopener noreferrer">
+      Myth and Folklore Wiki
+    </a>
+  </Footnote>
+</Footnotes>
+
 ---
 mdc: true
 transition: view-transition
 layout: figure-side
 figureUrl: /two_trolls.webp
-figureX: r
+figureCaption: Du troliai
+figureFootnoteNumber: 1
 ---
 
 # **Patentų VS Licencijų**
@@ -96,6 +117,14 @@ figureX: r
 | **Labiausiai paplitę** | JAV | ES |
 | **Erzinimo lygis** | <span style="color:#5B6236;">★★★★★</span> | <span style="color:#5B6236;">★★★★☆</span>|
 
+<Footnotes>
+  <Footnote :number="1">
+     Source: <a href="https://mythus.fandom.com/wiki/Troll/Gallery?file=E8a2b9ecbd56e0b5e73ffe8c7c20aad8.jpg" target="_blank" rel="noopener noreferrer">
+      Myth and Folklore Wiki
+    </a>
+  </Footnote>
+</Footnotes>
+
 ---
 mdc: true
 transition: view-transition
@@ -106,14 +135,12 @@ figureUrl: /veikimo_principas_v2.svg
 # **Veikimo principas**
 
 ---
-layout: top
+layout: default
 mdc: true
 transition: view-transition
 ---
 
 # **Žinomi IP troliai**
-
-<br/>
 
 - VirnetX (Apple trolis) (JAV)
 - Sable Networks Inc. (JAV)
@@ -125,6 +152,8 @@ transition: view-transition
 ---
 layout: figure-side
 figureUrl: /masked_villain.png
+figureCaption: The Hooded Terror
+figureFootnoteNumber: 1
 mdc: true
 transition: view-transition
 ---
@@ -135,8 +164,16 @@ transition: view-transition
 
 - 🇩🇪 Vokietijos pilietis
 - Prisidėjo prie Linux branduolio ir "Netfilter" karkaso kūrimo 2006-2014 m.
-- 2016-2018 m. vykdė General Public License (GPL) atitikties užtikrinimo kampaniją, kurios metu iš kompanijų ir individualių kūrėjų išgavo apie 1.8 mln. eur.,
+- 2016–2018 m. vykdė General Public License (GPL) gynybos kampaniją, kurios metu iš kompanijų ir individualių kūrėjų išgavo apie 1.8 mln. eur.,
 todėl buvo pramintas GPL trolio vardu.
+
+<Footnotes>
+  <Footnote :number="1">
+     Source: <a href="https://en.wikipedia.org/wiki/Masked_villain#/media/File:Hooded_Terror.jpg" target="_blank" rel="noopener noreferrer">
+         Wikipedia
+    </a>
+  </Footnote>
+</Footnotes>
 
 ---
 layout: default
@@ -182,11 +219,11 @@ transition: view-transition
 - Atsakovui nevykdant laikinojo arba nuolatinio teismo draudimo, ieškovas gali reikalauti finansinės baudos.
 
 <div class="absolute bottom-4 left-8 text-xs text-gray-500">
-  Šaltinis: Marcus v. Welser, <em>“Opposing the Monetization of Linux: McHardy v. Geniatech &amp; Addressing Copyright ‘Trolling’ in Germany”</em>,
+  Šaltinis: Marcus v. Welser, <a href="https://www.vossius.eu/fileadmin/news_docs/Opposing_the_Monetization_of_Linux_McHardy_v.__Geniatech___Addressing_Copyright_%E2%80%9CTrolling%E2%80%9D_in__Germany.pdf" target="_blank" >
+  “Opposing the Monetization of Linux: McHardy v. Geniatech &amp; Addressing Copyright ‘Trolling’ in Germany”
+  </a>,
   Vossius &amp; Partner, Munich, Germany.
-  <a href="https://www.vossius.eu/fileadmin/news_docs/Opposing_the_Monetization_of_Linux_McHardy_v.__Geniatech___Addressing_Copyright_%E2%80%9CTrolling%E2%80%9D_in__Germany.pdf" target="_blank" class="underline text-blue-500">
-  nuoroda
-  </a>
+
 </div>
 
 ---
@@ -276,6 +313,8 @@ transition: view-transition
 ---
 layout: figure-side
 figureUrl: /teismo_sprendimas.png
+figureCaption: Teismo sprendimo antraštė
+figureFootnoteNumber: 1
 ---
 
 # **Teismo išvados ir nutarimas**
@@ -289,6 +328,14 @@ figureUrl: /teismo_sprendimas.png
   - Hübeler-Brakat
   - Dr. Gryska
 - **Esmė:** „Geniatech“ pažeidė autorines teises ir turi nutraukti su pažeidimu susijusią veiklą, bei sumokėti teismo išlaidoms skirtą 100 tūkst. EUR sumą.
+
+<Footnotes>
+  <Footnote :number="1">
+     Source: <a href="http://docs.dpaq.de/13314-urteil_lg_k_ln.pdf" target="_blank" rel="noopener noreferrer">
+         Teismo sprendimas
+    </a>
+  </Footnote>
+</Footnotes>
 
 ---
 layout: top
@@ -423,6 +470,14 @@ figureUrl: /clara-stroebe-george-hood.webp
 - Laikinasis draudimas GENIATECH platinti įrangą - panaikinamas.
 - Teismas McHardžiui nurodo sumokėti visas teisines išlaidas.
 
+<Footnotes>
+  <Footnote>
+     Image: <a href="https://mythus.fandom.com/wiki/Troll/Gallery?file=The-swedish-fairy-book-clara-stroebe-george-hood.jpg" target="_blank" rel="noopener noreferrer">
+      Myth and Folklore Wiki
+    </a>
+  </Footnote>
+</Footnotes>
+
 ---
 layout: center
 transition: view-transition
@@ -481,11 +536,20 @@ figureUrl: /Trollet_som_grunner.webp
 
 - GPL nesilaikančios įmonės - <span class="font-bold text-[#e63946]">BLOGAI</span>
 - Uždarbiaujantys, pavieniai projekto dalyviai - <span class="font-bold text-[#e63946]">IRGI BLOGAI</span>
+- Didžioji dalis bylų baigiasi dvišaliais susitarimais - <span class="font-bold text-[#e63946]">IRGI BLOGAI</span>
 - Trolį nuo licencijos riterio skiria:
 
 |     | **Trolis**     | **Riteris**  |
 | ------- | ------------ | ------- |
 | **Pirminė motyvacija** |  finansinė nauda | atviro kodo įdėjų gynimas |
+
+<Footnotes>
+  <Footnote>
+     Image: <a href="https://mythus.fandom.com/wiki/Troll/Gallery?file=Trollet_som_grunner_p%C3%A5_hvor_gammelt_det_er.jpg" target="_blank" rel="noopener noreferrer">
+      Myth and Folklore Wiki
+    </a>
+  </Footnote>
+</Footnotes>
 
 ---
 layout: center
@@ -509,5 +573,15 @@ transition: view-transition
 7. [Opposing the Monetization of Linux: McHardy v.
 Geniatech & Addressing Copyright “Trolling” in
 Germany](https://www.vossius.eu/fileadmin/news_docs/Opposing_the_Monetization_of_Linux_McHardy_v.__Geniatech___Addressing_Copyright_%E2%80%9CTrolling%E2%80%9D_in__Germany.pdf)
+
+---
+layout: index
+indexEntries:
+  - { title: [sdasda](sadad), uri: 4 }
+  - { title: "Figure 2 – Validation accuracy over epochs", uri: 7 }
+indexRedirectType: internal
+---
+
+# **List of Figures**
 
 <PoweredBySlidev mt-10 />
