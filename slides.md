@@ -177,10 +177,17 @@ transition: view-transition
 - Vokietijos teismai bylose, susijusiose su intelektine nuosavybe, dažnai neišklausę abiejų pusių, yra linkę skirti itin griežtas ir sunkiai (apeliacijomis) panaikinamas laikinąsias sankcijas atsakovams.
 - Atsakovo prieštaravimas nestabdo teismo sankcijos.
 - Ieškovas laisvai renkasi teismą, kuriame bus nagrinėjama byla.
-- Ieškovas gali bet kada atsiimti prašymą dėl draudimo.
-- Teismų uždarumas.
+- Ieškovas gali bet kada atsiimti prašymą dėl sankcijos skyrimo.
+- Teismai yra sąlyginai uždari.
 - Nusižengimams, kurie gali būti kartojami, ieškovas gali reikalauti finansinės kompensacijos.
 
+<div class="absolute bottom-4 left-8 text-xs text-gray-500">
+  Šaltinis: Marcus v. Welser, <em>“Opposing the Monetization of Linux: McHardy v. Geniatech &amp; Addressing Copyright ‘Trolling’ in Germany”</em>,
+  Vossius &amp; Partner, Munich, Germany.
+  <a href="https://www.vossius.eu/fileadmin/news_docs/Opposing_the_Monetization_of_Linux_McHardy_v.__Geniatech___Addressing_Copyright_%E2%80%9CTrolling%E2%80%9D_in__Germany.pdf" target="_blank" class="underline text-blue-500">
+  nuoroda
+  </a>
+</div>
 
 ---
 layout: top
@@ -206,9 +213,7 @@ transition: view-transition
 <br/>
 
 **Ginčas:**
-
-- „Geniatech“ iš McHardy gavo perspėjimo laišką apie GPLv2 pažeidimą.
-- „Geniatech“ 2017 liepos 17 d. gauna susitarimo laišką iš Patrick McHardy, kuriame McHardy prašo įmonės nutraukti pažeidimą ir sumokėti baudą.
+- 2017 liepos 17 d. „Geniatech“ gauna susitarimo laišką iš Patrick McHardy, kuriame McHardy prašo įmonės nutraukti pažeidimą ir sumokėti baudą.
 - 2017 liepos 24 d. „Geniatech“ atsisako sutikti su sutarties sąlygomis.
 - 2017 liepos 26 d. Patrick McHardy nutraukia „Geniatech“ GPLv2.
 - 2017 rugpjūčio 4 d. Patrick McHardy pasirašo priesaikos deklaraciją, kurioje išdėsto esminius pažeidimo faktus kartu su įrodymais.
