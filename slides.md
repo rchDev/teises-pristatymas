@@ -360,7 +360,7 @@ transition: view-transition
 
 ### **Apžvalga:**
 
-- **Bylos numeris:** 6 U 193/17
+- **Bylos numeris:** 6 U 193/17 (išgalvotas, nežinau ar toks)
 - **Apeliantas:** „Geniatech“ Europe GmbH
 - **Atsakovas:** Patrick McHardy
 - **Nagrinėjo:** Aukštesnysis Kelno regioninis teismas.
