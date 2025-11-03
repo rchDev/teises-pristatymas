@@ -153,8 +153,8 @@ transition: view-transition
 **Schema:**
 - Atsiunčiamas cease-and-desist laiškas, kuriame:
     - nurodoma sumokėti smulkią kontrakto pažeidimo baudą,
-    - sutikti su svarbia sąlyga, jog pakartotinių licencijos pažeidimo atvejų metu, sutarties dalyvis turės sumokėti didėjančią baudą.
-- Aukai sutikus su pirmosios sutarties sąlygomis, siunčiami nauji cease-and-desist laiškai, kuriuose minimi kiti GPL pažeidimai su reikalavimais mokėti vis didesnes baudas ir sutikti su papildomomis sąlygomis.
+    - sutikti su svarbia sąlyga, jog pakartotinai pažeidus licenciją, auka turės mokėti nuolatos didėjančias baudas.
+- Aukai sutikus su pirmosios sutarties sąlygomis, siunčiami nauji cease-and-desist laiškai, kuriuose pateikiami kiti GPL pažeidimai su reikalavimais mokėti vis didesnes baudas ir sutikti su papildomomis sąlygomis.
 
 
 ---
@@ -177,9 +177,9 @@ transition: view-transition
 - Vokietijos teismai bylose, susijusiose su intelektine nuosavybe, dažnai neišklausę abiejų pusių, yra linkę skirti itin griežtas ir sunkiai (apeliacijomis) panaikinamas laikinąsias sankcijas atsakovams.
 - Atsakovo prieštaravimas nestabdo teismo sankcijos.
 - Ieškovas laisvai renkasi teismą, kuriame bus nagrinėjama byla.
-- Ieškovas gali bet kada atsiimti prašymą dėl sankcijos skyrimo.
+- Ieškovas gali, bet kada atsiimti prašymą dėl sankcijos skyrimo.
 - Teismai yra sąlyginai uždari.
-- Nusižengimams, kurie gali būti kartojami, ieškovas gali reikalauti finansinės kompensacijos.
+- Atsakovui nevykdant laikinojo arba nuolatinio teismo draudimo, ieškovas gali reikalauti finansinės baudos.
 
 <div class="absolute bottom-4 left-8 text-xs text-gray-500">
   Šaltinis: Marcus v. Welser, <em>“Opposing the Monetization of Linux: McHardy v. Geniatech &amp; Addressing Copyright ‘Trolling’ in Germany”</em>,
@@ -288,7 +288,7 @@ figureUrl: /teismo_sprendimas.png
   - Dr. Koepsel
   - Hübeler-Brakat
   - Dr. Gryska
-- **Esmė:** „Geniatech“ pažeidė autorines teises ir turi nutraukti su pažeidimu susijusią veiklą, bei ieškovui (Patrick McHardy) išmokėti kompensaciją.
+- **Esmė:** „Geniatech“ pažeidė autorines teises ir turi nutraukti su pažeidimu susijusią veiklą, bei sumokėti teismo išlaidoms skirtą 100 tūkst. EUR sumą.
 
 ---
 layout: top
