@@ -564,13 +564,12 @@ transition: view-transition
 ---
 
 # **Šaltiniai**
-1. [Netfilter project: Settlement with Patrick McHardy](https://lwn.net/Articles/882397/)
-2. [The rise of copyright trolls](https://lwn.net/Articles/721458/)
-3. [Report from the Geniatech vs. McHardy GPL violation court hearing](https://laforge.gnumonks.org/blog/20180307-mchardy-gpl/)
-4. [Welte: Report from the Geniatech vs. McHardy GPL violation court hearing](https://lwn.net/Articles/748761/)
-5. [What makes the drivers unsalvageable? Proprietary blobs interacting with the Linux kernel?](https://news.ycombinator.com/item?id=30827779)
-6. [Kelno apygardos teismo nuosprendis](http://docs.dpaq.de/13314-urteil_lg_k_ln.pdf)
-7. [Opposing the Monetization of Linux: McHardy v.
+1. [The rise of copyright trolls](https://lwn.net/Articles/721458/)
+2. [Report from the Geniatech vs. McHardy GPL violation court hearing](https://laforge.gnumonks.org/blog/20180307-mchardy-gpl/)
+3. [Welte: Report from the Geniatech vs. McHardy GPL violation court hearing](https://lwn.net/Articles/748761/)
+4. [What makes the drivers unsalvageable? Proprietary blobs interacting with the Linux kernel?](https://news.ycombinator.com/item?id=30827779)
+5. [Kelno apygardos teismo nuosprendis](http://docs.dpaq.de/13314-urteil_lg_k_ln.pdf)
+6. [Opposing the Monetization of Linux: McHardy v.
 Geniatech & Addressing Copyright “Trolling” in
 Germany](https://www.vossius.eu/fileadmin/news_docs/Opposing_the_Monetization_of_Linux_McHardy_v.__Geniatech___Addressing_Copyright_%E2%80%9CTrolling%E2%80%9D_in__Germany.pdf)
 
