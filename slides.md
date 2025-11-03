@@ -213,10 +213,10 @@ transition: view-transition
 <br/>
 
 **Ginčas:**
-- 2017 liepos 17 d. „Geniatech“ gauna susitarimo laišką iš Patrick McHardy, kuriame McHardy prašo įmonės nutraukti pažeidimą ir sumokėti baudą.
-- 2017 liepos 24 d. „Geniatech“ atsisako sutikti su sutarties sąlygomis.
-- 2017 liepos 26 d. Patrick McHardy nutraukia „Geniatech“ GPLv2.
-- 2017 rugpjūčio 4 d. Patrick McHardy pasirašo priesaikos deklaraciją, kurioje išdėsto esminius pažeidimo faktus kartu su įrodymais.
+- 2017 liepos 17 d. „Geniatech“ gavo susitarimo laišką iš Patrick McHardy, kuriame McHardis reikalavo, jog įmonė nutrauktų pažeidimą ir sumokėtų baudą.
+- 2017 liepos 24 d. „Geniatech“ atsisakė sutikti su sutarties sąlygomis.
+- 2017 liepos 26 d. Patrick McHardy nutraukė „Geniatech“ GPLv2.
+- 2017 rugpjūčio 4 d. Patrick McHardy pasirašė priesaikos deklaraciją, kurioje, kartu su įrodymais, išdėstė esminius pažeidimo faktus.
 
 ---
 layout: top
@@ -229,8 +229,8 @@ transition: view-transition
 
 **Draudimas:**
 
-- 2017 rugpjūčio 10 d. Patrick McHardis Kelno apygrados teismui pateikė prašymą dėl laikinojo draudimo.
-- 2017 rugpjūčio 24 d. įmonei „Geniatech“ išdavė laikinąjį draudimą platinti produkciją, turinčią McHardžio rašytą programinį kodą, nes McHardžiui pavyko įrodyti:
+- 2017 rugpjūčio 10 d. Patrick McHardis Kelno apygrados teismui pateikė prašymą dėl laikinosios priemonės suteikimo „Geniatech“.
+- 2017 rugpjūčio 23 d. teismas įmonei „Geniatech“ išdavė laikinąjį draudimą platinti produkciją, turinčią McHardžio rašytą programinį kodą, nes McHardžiui pavyko įrodyti:
   - autorystę,
   - autorinių teisių pažeidimo egzistavimą,
   - skubumo svarbą,
