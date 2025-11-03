@@ -574,14 +574,4 @@ transition: view-transition
 Geniatech & Addressing Copyright “Trolling” in
 Germany](https://www.vossius.eu/fileadmin/news_docs/Opposing_the_Monetization_of_Linux_McHardy_v.__Geniatech___Addressing_Copyright_%E2%80%9CTrolling%E2%80%9D_in__Germany.pdf)
 
----
-layout: index
-indexEntries:
-  - { title: [sdasda](sadad), uri: 4 }
-  - { title: "Figure 2 – Validation accuracy over epochs", uri: 7 }
-indexRedirectType: internal
----
-
-# **List of Figures**
-
 <PoweredBySlidev mt-10 />
