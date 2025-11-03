@@ -115,17 +115,12 @@ transition: view-transition
 
 <br/>
 
-**Patentų:**
 - VirnetX (Apple trolis) (JAV)
 - Sable Networks Inc. (JAV)
 - Uniloc Corporation (JAV)
-
-<br/>
-
-**Licencijų:**
 - <span v-mark.box="{color: '#ffb347', animationDuration:800}">Patrick McHardy "GPL trolis" (ES)</span>
-- Open Source Security, Inc. (JAV)
-- Hans Reiser / Namesys (JAV)
+- Hans Reiser (JAV)
+- Rothschild Patent Imaging (JAV)
 
 ---
 layout: figure-side
@@ -179,12 +174,12 @@ transition: view-transition
 # **Vokietijos teisinė sistema**
 <br/>
 
-- Teismas gali be žodinio nagrinėjimo išduoti laikiną teismo draudimą, kurį panaikinti iki jo termino pabaigos yra sunku.
-- Atsakovo prieštaravimas nestabdo teismo draudimo
-- Laisvas teismo vietos pasirinkimas
-- Ieškovas gali bet kada atsiimti prašymą dėl draudimo
-- Teismų uždarumas
-- Ieškovas gali iš atsakovo reikalauti sumokėti baudą savo naudai
+- Vokietijos teismai bylose, susijusiose su intelektine nuosavybe, dažnai neišklausę abiejų pusių, yra linkę skirti itin griežtas ir sunkiai (apeliacijomis) panaikinamas laikinąsias sankcijas atsakovams.
+- Atsakovo prieštaravimas nestabdo teismo sankcijos.
+- Ieškovas laisvai renkasi teismą, kuriame bus nagrinėjama byla.
+- Ieškovas gali bet kada atsiimti prašymą dėl draudimo.
+- Teismų uždarumas.
+- Nusižengimams, kurie gali būti kartojami, ieškovas gali reikalauti finansinės kompensacijos.
 
 
 ---
