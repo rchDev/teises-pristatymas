@@ -54,9 +54,9 @@ figureWidth: 90%
     - Valstybiniai / Propagandiniai
   - Gatvės {.vt-item}
   - Dezinformacijos {.vt-item}
-- <span v-mark.box.orange="{color: '#ffb347', animationDuration:800}">Teisiniai (Intelektinės Nuosavybės)</span> {.vt-item}
+- <span v-mark.box.orange="{color: '#ffb347', strokeWidth: 3, animationDuration:400}">Teisiniai (Intelektinės Nuosavybės)</span> {.vt-item}
     - Patentų {.vt-item}
-    - <span v-mark.highlight="{color: '#e63946', animationDuration:800}">Autorių teisių / Licencijų troliai</span> {.vt-item}
+    - <span v-mark.highlight="{color: '#e63946', strokeWidth: 3, animationDuration:400}">Autorių teisių / Licencijų troliai</span> {.vt-item}
     - Prekių ženklų {.vt-item}
 
 <Footnotes>
@@ -85,8 +85,8 @@ Fiziniai ar juridiniai asmenys, kurie piktnaudžiauja teisine sistema (ypač int
 kad gautų finansinę naudą, o ne siektų teisingumo ar realaus teisių įgyvendinimo.
 
 **Rūšys:**
-- <span v-mark.box="{color: '#ffb347', animationDuration:800}">Patentų troliai</span>
-- <span v-mark.box="{color: '#ffb347', animationDuration:800}">Autorių teisių / Licencijų troliai</span>
+- <span v-mark.box="{color: '#ffb347', strokeWidth: 3, animationDuration:400}">Patentų troliai</span>
+- <span v-mark.box="{color: '#ffb347', strokeWidth: 3, animationDuration:400}">Autorių teisių / Licencijų troliai</span>
 - Prekių ženklų troliai
 
 <Footnotes>
@@ -145,7 +145,7 @@ transition: view-transition
 - VirnetX (Apple trolis) (JAV)
 - Sable Networks Inc. (JAV)
 - Uniloc Corporation (JAV)
-- <span v-mark.box="{color: '#ffb347', animationDuration:800}">Patrick McHardy "GPL trolis" (ES)</span>
+- <span v-mark.box="{color: '#ffb347', strokeWidth: 3, animationDuration:400}">Patrick McHardy "GPL trolis" (ES)</span>
 - Hans Reiser (JAV)
 - Rothschild Patent Imaging (JAV)
 
@@ -209,9 +209,10 @@ transition: view-transition
 ---
 
 # **Vokietijos teisinė sistema**
+
 <br/>
 
-- Vokietijos teismai bylose, susijusiose su intelektine nuosavybe, dažnai neišklausę abiejų pusių, yra linkę skirti itin griežtas ir sunkiai (apeliacijomis) panaikinamas laikinąsias sankcijas atsakovams.
+- <span v-mark.box="{color:'#ffb347', strokeWidth: 3, animationDuration:400}">Vokietijos teismai bylose, susijusiose su intelektine nuosavybe, dažnai neišklausę abiejų pusių, yra linkę skirti itin griežtas ir sunkiai (apeliacijomis) panaikinamas laikinąsias sankcijas atsakovams.</span>
 - Atsakovo prieštaravimas nestabdo teismo sankcijos.
 - Ieškovas laisvai renkasi teismą, kuriame bus nagrinėjama byla.
 - Ieškovas gali, bet kada atsiimti prašymą dėl sankcijos skyrimo.
@@ -303,10 +304,10 @@ transition: view-transition
 **Žodinis nagrinėjimas ir galutinis nutarimas:**
 
 - 2017 m. spalio 12 d. Vokietijos Kelno apygardos teisme įvyko žodinis nagrinėjimas, kuriame abi šalys:
-  - pateikė žodinius argumentus
-  - pristatė ekspertų išvadas
+  - žodžiu išdėstė argumentus,
+  - pristatė ekspertų išvadas.
 
-- 2017 m. spalio 17 d. abi šalys Kelno apygardos teismui pateikė galutinius rašytinius paaiškinimus.
+- 2017 m. spalio 17 d. abi šalys Kelno apygardos teismui pateikė galutinius rašytinius paaiškinimus ir kitus procesinius dokumentus.
 
 - 2017 m. spalio 21 d. Kelno apygardos teismas pateikė išvadas ir pateikė galutinį nutarimą.
 
