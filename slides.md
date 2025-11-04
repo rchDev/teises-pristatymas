@@ -166,6 +166,7 @@ transition: view-transition
 - Prisidėjo prie Linux branduolio ir "Netfilter" karkaso kūrimo 2006-2014 m.
 - 2016–2018 m. vykdė General Public License (GPL) gynybos kampaniją, kurios metu iš kompanijų ir individualių kūrėjų išgavo apie 1.8 mln. eur.,
 todėl buvo pramintas GPL trolio vardu.
+- Iki 2018 m kovo 7 d. užregisturoti 38 trolinimo atvejai.
 
 <Footnotes>
   <Footnote :number="1">
