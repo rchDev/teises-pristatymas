@@ -413,9 +413,9 @@ transition: view-transition
 - **Atsakovas:** Patrick McHardy
 - **Nagrinėjo:** Aukštesnysis Kelno regioninis teismas.
 - **Žodinio nagrinėjimo data:** 2018 kovo 7 d.
-- **Tikslas:** Apeliacija dėl 2017 m. Kelno apygardos teismo (LG Köln) laikinojo draudimo sprendimo.
+- **Tikslas:** Apeliacija dėl 2017 m. Kelno apygardos teismo (LG Köln) pritaikytos sankcijos - draudimo.
 - **Rezultatas:**
-  - Atsakovas (McHardy) atsiėmė prašymą išlaikyti laikinąjį draudimą,
+  - Atsakovas (McHardy) atsiėmė prašymą išlaikyti draudimą,
   - apeliacijos byla nutraukta,
   - McHardžiui nurodyta sumokėti visas teismo išlaidas.
 
@@ -452,7 +452,7 @@ transition: view-transition
   - trūksta originalumo įrodymo,
   - McHardis nesugebėjo pateikti konkrečių savo darbo įrodymų, kuriuos būtų galima laikyti jo kūrybiniu darbu, todėl McHardžio indėlis yra laikomas techniniu, o ne kūrybiniu.
 - McHardžio rolė „maintainter“ arba „head of Netfilter core team“ nesuteikia jam autorystės teisės.
-- McHardžio prašoma laikinojo draudimo apimtis yra pernelyg didelė: ji neturėtų apimti visų „Linux“ versijų.
+- McHardžio prašoma draudimo apimtis yra pernelyg didelė: ji neturėtų apimti visų „Linux“ versijų.
 
 ---
 layout: top
@@ -468,7 +468,7 @@ figureUrl: /clara-stroebe-george-hood.webp
 ### **Rezultatas:**
 
 - McHardis atsitraukia.
-- Laikinasis draudimas GENIATECH platinti įrangą - panaikinamas.
+- Draudimas GENIATECH platinti įrangą - panaikinamas.
 - Teismas McHardžiui nurodo sumokėti visas teisines išlaidas.
 
 <Footnotes>
