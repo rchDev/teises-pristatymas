@@ -543,6 +543,7 @@ figureUrl: /Trollet_som_grunner.webp
 |     | **Trolis**     | **Riteris**  |
 | ------- | ------------ | ------- |
 | **Pirminė motyvacija** |  finansinė nauda | atviro kodo įdėjų gynimas |
+| **Sukurtas produktas** |  naudinga inovacija | butaforinis |
 
 <Footnotes>
   <Footnote>
