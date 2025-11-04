@@ -486,7 +486,7 @@ transition: view-transition
 ---
 
 # **Trolis teisininkams,**
-# **licencijos riteris OSS bendruomenei?**
+# **kilnus didvyris OSS bendruomenei?**
 
 ---
 layout: top
@@ -539,9 +539,9 @@ figureUrl: /Trollet_som_grunner.webp
 - GPL nesilaikančios įmonės - <span class="font-bold text-[#e63946]">BLOGAI</span>
 - Uždarbiaujantys, pavieniai projekto dalyviai - <span class="font-bold text-[#e63946]">IRGI BLOGAI</span>
 - Didžioji dalis bylų baigiasi dvišaliais susitarimais - <span class="font-bold text-[#e63946]">IRGI BLOGAI</span>
-- Trolį nuo licencijos riterio skiria:
+- Trolį nuo kilnaus licencijos gynėjo skiria:
 
-|     | **Trolis**     | **Riteris**  |
+|     | **Trolis**     | **Kilnus gynėjas**  |
 | ------- | ------------ | ------- |
 | **Pirminė motyvacija** |  finansinė nauda | atviro kodo įdėjų gynimas |
 | **Sukurtas produktas** |  naudinga inovacija | butaforinis |
