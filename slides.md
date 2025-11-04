@@ -142,8 +142,8 @@ transition: view-transition
 
 # **Žinomi IP troliai**
 
-- VirnetX (Apple trolis) (JAV)
-- Sable Networks Inc. (JAV) (Pagautas "CloudFlare" Project Jengo)
+- VirnetX (Apple trolis) (JAV) - žinomas APPLE trolis.
+- Sable Networks Inc. (JAV) - pagautas „CloudFlare“  Project Jengo iniciatyva
 - Uniloc Corporation (JAV)
 - <span v-mark.box="{color: '#ffb347', strokeWidth: 3, animationDuration:400}">Patrick McHardy "GPL trolis" (ES)</span>
 - Hans Reiser (JAV)
